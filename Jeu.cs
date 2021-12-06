@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*Cette classe est une classe de base permettant de représenter un jeu par son Nom. Prévoir les accesseurs ainsi
+que le constructeur de cette classe. */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,7 +19,7 @@ namespace TPPuissance4
         public Jeu()
         {
         }
-
+        
         public Jeu(string nom)
         {
             this.Nom = nom;

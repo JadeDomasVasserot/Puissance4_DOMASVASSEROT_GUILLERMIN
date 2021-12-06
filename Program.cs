@@ -10,7 +10,9 @@ namespace TPPuissance4
     {
         static void Main(string[] args)
         {
-
+            Puissance4 leJeuDeLaMortQuiTue = new Puissance4("leJeuDeLaMortQuiTue");
+            leJeuDeLaMortQuiTue.Demarrer();
+            Console.ReadKey();
         }
     }
 }

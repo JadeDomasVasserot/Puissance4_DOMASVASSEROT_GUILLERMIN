@@ -1,0 +1,14 @@
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\bin\Debug\TPPuissance4.exe.config
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\bin\Debug\TPPuissance4.exe
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\bin\Debug\TPPuissance4.pdb
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\obj\Debug\TPPuissance4.csproj.AssemblyReference.cache
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\obj\Debug\TPPuissance4.csproj.CoreCompileInputs.cache
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\obj\Debug\TPPuissance4.exe
+C:\Users\jaded\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\obj\Debug\TPPuissance4.pdb
+C:\Users\Jadoune\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\obj\Debug\TPPuissance4.csproj.AssemblyReference.cache
+C:\Users\Jadoune\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\obj\Debug\TPPuissance4.csproj.CoreCompileInputs.cache
+C:\Users\Jadoune\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\obj\Debug\TPPuissance4.exe
+C:\Users\Jadoune\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\obj\Debug\TPPuissance4.pdb
+C:\Users\Jadoune\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\bin\Debug\TPPuissance4.exe.config
+C:\Users\Jadoune\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\bin\Debug\TPPuissance4.exe
+C:\Users\Jadoune\Dropbox (PCI)\EPSI_COURS\B2\COURS_B2\Nicolas_ChevalierC#\Puissance4_DOMASVASSEROT_GUILLERMIN\bin\Debug\TPPuissance4.pdb
